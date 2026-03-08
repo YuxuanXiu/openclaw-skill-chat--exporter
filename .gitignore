@@ -1,0 +1,24 @@
+# Chat Exporter - Git Ignore
+
+# 聊天记录截图
+*.png
+*.jpg
+*.jpeg
+
+# 聊天记录输出
+聊天记录*.md
+*聊天记录*.md
+
+# 临时文件
+*.tmp
+*.log
+.DS_Store
+
+# 任务信息
+chat-extract-info.txt
+/tmp/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
